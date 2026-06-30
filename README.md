@@ -11,7 +11,7 @@
 - Entorno de trabajo Intellij y Visual Studio Code
 
 ## Proyectos destacados
-- En Proceso 🚀
+- Gestor de Tareas 
 
 
 #### Para contactar conmigo puedes escribir un correo a: *adgithub1912@gmail.com*, responderé lo antes posible 
