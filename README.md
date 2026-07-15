@@ -19,5 +19,3 @@
 
 
 #### Para contactar conmigo puedes escribir un correo a: *adgithub1912@gmail.com*, responderé lo antes posible 
-
-![Mis commits](https://ghchart.rshah.org/adrt1912)
