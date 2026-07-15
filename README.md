@@ -11,7 +11,13 @@
 - Entorno de trabajo Intellij y Visual Studio Code
 
 ## Proyectos destacados
-- Calendario 
+- Calendario
+- Chronos bot Discord
+
+## Proyectos en proceso
+-Mod de minecraft
 
 
 #### Para contactar conmigo puedes escribir un correo a: *adgithub1912@gmail.com*, responderé lo antes posible 
+
+![Mis commits](https://ghchart.rshah.org/TU_USUARIO)
