@@ -11,4 +11,4 @@
 -Mod de minecraft
 
 
-#### Para contactar conmigo puedes escribir un correo a: *adgithub1912@gmail.com*, responderé lo antes posible 
+#### Para contactar conmigo puedes escribir un correo a: *perezaday1912@gmail.com*, responderé lo antes posible 
