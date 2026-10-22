@@ -1,14 +1,13 @@
 ## Hola! Soy Aday 👋
 
 
-### Aquí ire haciendo trabajos y proyectos en mi tiempo libre para ir practicando lo que he aprendido
+### Aquí ire haciendo trabajos y proyectos
 
-## Proyectos destacados
+
+
+## Proyectos en tiempo libre
 - Calendario
 - Chronos bot Discord
-
-## Proyectos en proceso
--Mod de minecraft
 
 
 #### Para contactar conmigo puedes escribir un correo a: *perezaday1912@gmail.com*, responderé lo antes posible 
